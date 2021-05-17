@@ -1,0 +1,68 @@
+.instabox {
+    background-color: #fafafa;
+}
+
+.top-box {
+    display: flex;
+    flex-direction: row;
+}
+
+.tb-left {
+    margin: auto;
+}
+
+.tb-right {
+    display: flex;
+    flex-direction: column;
+    margin-right: 60px:
+}
+
+.headerbox {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    margin-top: 50px;
+}
+
+.text {
+    /* should be Nimbus Sans */
+    font-family: sans-serif;
+}
+
+.statsbox {
+    display: flex;
+    justify-content: space-between;
+}
+
+.greyedout {
+    color: #999999;
+    font-weight: 800;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottom-box {
+    display: flex;
+    flex-direction: row;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.account-link {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
