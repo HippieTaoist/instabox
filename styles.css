@@ -8,7 +8,7 @@
 }
 
 .tb-left {
-    margin: auto;
+    margin: 100px;
 }
 
 .tb-right {
@@ -22,6 +22,7 @@
     flex-direction: row;
     align-items: baseline;
     margin-top: 50px;
+    justify-content: space-between;
 }
 
 .text {
